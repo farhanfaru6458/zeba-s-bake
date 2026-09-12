@@ -101,7 +101,7 @@ function Navbar() {
     <header className="fixed top-0 z-40 w-full px-4 pt-4 sm:px-6 lg:px-10">
       <nav className="mx-auto flex max-w-7xl items-center justify-between rounded-full border border-chocolate/10 bg-cream/80 px-4 py-3 shadow-sm backdrop-blur-xl sm:px-6">
         <a href="#home" className="flex items-center gap-2" onClick={() => setOpen(false)}>
-          <span className="grid h-9 w-9 place-items-center rounded-full bg-chocolate text-cream shadow-md">Z</span>
+          <img src="/images/logo.png" alt="Zebas Bake logo" className="h-10 w-10 sm:h-12 sm:w-12 object-contain" />
           <span className="script text-2xl leading-none sm:text-3xl">Zebas Bake</span>
         </a>
         <div className="hidden items-center gap-7 text-xs font-bold lg:flex">
