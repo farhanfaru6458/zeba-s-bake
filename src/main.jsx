@@ -7,7 +7,7 @@ import {
 } from "lucide-react";
 import "./index.css";
 
-const WHATSAPP_NUMBER = "9995962897";
+const WHATSAPP_NUMBER = "919995962897";
 const INSTAGRAM_URL = "https://www.instagram.com/zebasbake/";
 
 const products = [
